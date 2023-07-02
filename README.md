@@ -1,4 +1,4 @@
-### Hi there, I'm Eoghan! 👋
+# Hi there, I'm Eoghan! 👋
 
 <!-- commit and star stats --> <!-- cobalt, synthwave, highcontrast, radical -->
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=calacuda&show_icons=true&theme=cobalt" />
@@ -10,19 +10,13 @@
 - 📫 How to reach me: eowest@gmail.com
 - 🔭 I’m currently working on: [tetanus-keeb](https://github.com/calacuda/tetanus-keeb) a touch sensitive esp32-s3 powered keyboard written in rust.  
 
-#### Expert Languages
+### Expert Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
-#### ML Libraries
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-#### Misc Technologies 
+### Misc Technologies 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
