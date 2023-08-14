@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: "They/He"
 - 📫 How to reach me: eowest@gmail.com
-- 🔭 I’m currently working on: [tetanus-keeb](https://github.com/calacuda/tetanus-keeb) a touch sensitive esp32-s3 powered keyboard written in rust.  
+- 🔭 I’m currently working on: [tetanus-keeb](https://github.com/calacuda/tetanus-keeb) a touch-sensitive esp32-s3 powered keyboard written in rust, and PenTestDB, an information gatherer and database for penetration testers. 
 
 ### Expert Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
