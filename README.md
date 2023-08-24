@@ -2,7 +2,7 @@
 
 <!-- commit and star stats --> <!-- cobalt, synthwave, highcontrast, radical -->
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=calacuda&show_icons=true&theme=cobalt" />
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calacuda&layout=compact&" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calacuda&layout=compact&hide=lua&" />
 
 <br>
 
