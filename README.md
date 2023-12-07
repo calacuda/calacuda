@@ -8,13 +8,20 @@
 
 - 😄 Pronouns: "They/He"
 - 📫 How to reach me: eowest@gmail.com
-- 🔭 I’m currently working on: [tetanus-keeb](https://github.com/calacuda/tetanus-keeb) a touch-sensitive esp32-s3 powered keyboard written in rust, and [PenTestDB](https://github.com/calacuda/PenTestDB), an information gatherer and database for penetration testers. 
+- 🔭 I’m currently working on:
+  - [PenTestDB](https://github.com/calacuda/PenTestDB), an information gatherer and database for penetration testers (written in Rust).
+  - [Synth-32](https://github.com/calacuda/synth-32), an esp32 powered synthesizer (written in Rust).
+<!-- - EMOJI Blog: [calacuda.github.io](https://calacuda.github.io/) -->  
+
+<!--
+[tetanus-keeb](https://github.com/calacuda/tetanus-keeb) a touch-sensitive esp32-s3 powered keyboard written in rust, and
+-->
 
 ### Expert Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+<!-- ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) -->
 
 ### Misc Technologies 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
