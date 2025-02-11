@@ -10,7 +10,7 @@
 - 📫 How to reach me: eowest@gmail.com
 - 🔭 I’m currently working on:
   - [PenTestDB](https://github.com/calacuda/PenTestDB), an information gatherer and database for penetration testers (written in Rust).
-  - [Stepper Synth](https://github.com/calacuda/stepper-synth), a multi-engine synth for retro emulation consoles running knulli/batocera. (written in Rust & Python).
+  - [Stepper-Synth](https://github.com/calacuda/stepper-synth), a multi-engine synth for retro emulation consoles running knulli/batocera. (written in Rust & Python).
 <!-- - EMOJI Blog: [calacuda.github.io](https://calacuda.github.io/) -->  
 
 <!--
